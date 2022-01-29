@@ -1,0 +1,27 @@
+{
+  "name": "alura-challenge-backend-2",
+  "version": "1.0.0",
+  "description": "Alura Challenge Back-End - API Rest funcional focada em controle financeiro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GilmarBennertJr/alura-challenge-backend-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GilmarBennertJr/alura-challenge-backend-2/issues"
+  },
+  "homepage": "https://github.com/GilmarBennertJr/alura-challenge-backend-2#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "consign": "^0.1.6",
+    "cors": "^2.8.4",
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.8"
+  }
+}
